@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "jest": "^27.3.1",
+    "mocha": "^9.1.3"
+  },
+  "name": "raftalbs",
+  "version": "1.0.0",
+  "main": "raftalbs.test.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node raftlabs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
